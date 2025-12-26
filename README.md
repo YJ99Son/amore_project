@@ -72,7 +72,9 @@
 │   ├── visualizer.py       # t-SNE 시각화
 │   └── customer_generator.py
 ├── data/
-│   ├── customers.json      # 277명 고객 프로필
+│   ├── products.json       # [NEW] 772개 제품 + 7,000개 리뷰 + 상세 메타데이터
+│   ├── images/             # [NEW] 제품별 고화질 이미지 폴더 (2GB+)
+│   ├── customers.json      # 가상 고객 프로필
 │   └── amoremall_reviews.json
 ├── model.pth               # 학습된 가중치
 ├── TECHNICAL_DOCUMENTATION.md
@@ -167,5 +169,5 @@ MIT License
 
 ## 🙏 Acknowledgments
 
-- 데이터: 아모레몰 상품 리뷰
+- 데이터: 아모레몰 상품 데이터 (772개 제품, ~7,000개 리뷰, 2GB+ 이미지)
 - 프레임워크: PyTorch, scikit-learn
