@@ -1,0 +1,18 @@
+{
+  "total": 7090,
+  "k": 5,
+  "personas": {
+    "0": "Cluster_0",
+    "1": "Cluster_1",
+    "2": "Cluster_2",
+    "3": "Scent_Lover",
+    "4": "Cluster_4"
+  },
+  "distribution": {
+    "Cluster_4": 1920,
+    "Cluster_2": 1626,
+    "Cluster_1": 1614,
+    "Cluster_0": 1544,
+    "Scent_Lover": 386
+  }
+}

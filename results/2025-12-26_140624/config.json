@@ -1,0 +1,9 @@
+{
+  "data_path": "../data/products.json",
+  "timestamp": "2025-12-26_140624",
+  "num_products": 772,
+  "num_customers": 7114,
+  "num_brands": 227,
+  "epochs": 500,
+  "batch_size": 64
+}

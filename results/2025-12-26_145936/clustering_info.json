@@ -1,0 +1,18 @@
+{
+  "total": 7090,
+  "k": 5,
+  "personas": {
+    "0": "Dry_Skin",
+    "1": "Scent_Lover",
+    "2": "Loyal_User",
+    "3": "Loyal_User_3",
+    "4": "Sensitive"
+  },
+  "distribution": {
+    "Loyal_User": 1904,
+    "Scent_Lover": 1611,
+    "Sensitive": 1601,
+    "Loyal_User_3": 1560,
+    "Dry_Skin": 414
+  }
+}

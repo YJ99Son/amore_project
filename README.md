@@ -83,6 +83,24 @@
 
 ---
 
+## 🎯 CRM Generator
+
+AI 기반 B2B CRM 마케팅 메시지 자동 생성 시스템
+
+### Features
+- **RAG 기반 컨텍스트 검색**: 브랜드 스토리, 제품 정보, 고객 리뷰 자동 분석
+- **Multi-LLM 지원**: Gemini, Ollama Cloud, OpenAI 선택 가능
+- **3개 후보 생성**: 친근한 / 전문적 / 트렌디 톤 동시 제안
+
+### Data (2024.12.29 업데이트)
+- 772개 제품 (아모레몰 URL에서 직접 브랜드 추출)
+- 29개 브랜드 스토리 (톤앤매너, 비주얼 컬러 정의)
+- 5개 CRM 예시 (카카오톡 마케팅 스타일)
+
+👉 자세한 내용은 [crm_generator/README.md](./crm_generator/README.md) 참고
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. 설치
